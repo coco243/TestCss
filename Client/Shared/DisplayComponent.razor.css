@@ -1,3 +1,17 @@
-﻿.displayStyle{
-    margin:7px;
+﻿.displayStyleXucu {
+    border: 5px solid rgb(255 216 0);
+    border-radius: .25rem;
+    background-color: blue;
 }
+
+
+.displayFormat {
+    border: 5px solid rgb(255 0 0);
+    border-radius: .25rem;
+    background-color: aqua;
+}
+
+.stilul2 {
+    border: 5px outset red;
+}
+
